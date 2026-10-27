@@ -134,6 +134,12 @@ Under the stated assumptions, Strategy C is **€100,696 lower in modeled cost t
 
 These differences **must not** be presented as verified financial savings or prevented defaults.
 
+## Project Presentation
+
+The presentation summarizes the project workflow, machine learning models, key findings, and business implications.
+
+[View Project Presentation](https://github.com/elshir-da/final_project_data_analytics_iron_hack/blob/main/Credit_Card_Default.pptx)
+
 ## Reproducing the Analysis
 
 ### Requirements
