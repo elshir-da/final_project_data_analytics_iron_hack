@@ -156,12 +156,13 @@ pip install jupyter pandas numpy matplotlib seaborn scikit-learn xgboost shap
 
 ### Run the Notebook
 
-1. Download the dataset from the UCI repository.
-2. Place the dataset in the location expected by the notebook, or update the input file path.
-3. Open the project's main Jupyter notebook.
-4. Select **Restart Kernel and Run All Cells** to reproduce the workflow.
+1. Clone or download this GitHub repository.
+2. Install the required Python packages using the command above.
+3. Ensure that `credit_card_default_clean.csv` is located in the same directory as the Jupyter Notebook.
+4. Open the Notebook using Jupyter Notebook, JupyterLab, or VS Code.
+5. Select **Restart Kernel and Run All Cells** to execute the complete analysis.
 
-The repository's exact notebook name and data paths may vary; verify them before running. The dataset and environment dependencies should be documented consistently with the committed files.
+**Note:** The original dataset is available from the UCI Machine Learning Repository. The CSV file included in this repository is used for the analysis.
 
 ## Limitations
 
